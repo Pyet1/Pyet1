@@ -5,7 +5,7 @@
 - 📫 How to reach me
 - https://www.linkedin.com/in/pyetro-henrique-738a18262
 - https://instagram.com/pyetro_henriquex?igshid=MzRlODBiNWFlZA==
-
+[![card](https://github-readme-stats.vercel.app/api?username=Pyet1&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Pyet1/Pyet1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
